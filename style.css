@@ -1,0 +1,24 @@
+#img1{
+    width:400px;
+    height:300px;
+}
+#h{
+    float:right;
+    margin-right:20px;
+}
+body{
+background-size:cover;
+background-position:center;
+}
+#status1{
+    float:left;
+    margin-left:30px;
+}
+#numberofobjects{
+    margin-top:25px;
+}
+#white_bedroom{
+font-size:23px;
+width:100%;
+margin:0px;
+}
